@@ -103,9 +103,8 @@ Feel free to fork this repository, improve the project, and submit a pull reques
 This project is open-source and free to use.
 
 🔗 Connect with Me
-📧 Email: your.email@example.com
-💼 LinkedIn: Your LinkedIn
-🌎 GitHub: Your GitHub
+📧 Email: rautradhika079@gmail.com.com
+🌎 GitHub: https://github.com/1289RA/House_price_prediction.git
 
 yaml
 Copy
