@@ -66,38 +66,18 @@ Running on http://127.0.0.1:5000/
 6️⃣ Open in Browser
 Go to http://127.0.0.1:5000/ in your browser.
 
-📸 Screenshots
-Form UI for Input:
-
 🔧 How It Works
 User enters house details in the form.
 The Flask app sends input to the trained ML model.
 Model predicts the house price and displays it on the web page.
-📜 Requirements.txt
-Make sure requirements.txt includes:
 
-nginx
-Copy
-Edit
-Flask
-pandas
-numpy
-scikit-learn
-joblib
-To install all dependencies:
-
-sh
-Copy
-Edit
-pip install -r requirements.txt
 📌 Features
 ✔️ Simple and user-friendly UI
 ✔️ Flask-based backend for easy deployment
 ✔️ Machine Learning model for price prediction
 ✔️ Well-documented GitHub repository
 
-🤝 Contributing
-Feel free to fork this repository, improve the project, and submit a pull request.
+
 
 📄 License
 This project is open-source and free to use.
@@ -106,16 +86,4 @@ This project is open-source and free to use.
 📧 Email: rautradhika079@gmail.com.com
 🌎 GitHub: https://github.com/1289RA/House_price_prediction.git
 
-yaml
-Copy
-Edit
 
----
-
-### **📌 Steps to Add README.md to GitHub**
-1. Save this file as `README.md` in your project folder.
-2. Run the following commands:
-   ```sh
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main
